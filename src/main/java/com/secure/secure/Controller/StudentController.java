@@ -23,8 +23,8 @@ public class StudentController {
 	        return token;
 	    }
 	 
-	 public void m1() {
-		 
+	 public int m1() {
+		 return 1;
 	 }
 
 }

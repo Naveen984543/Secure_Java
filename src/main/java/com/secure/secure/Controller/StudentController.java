@@ -22,5 +22,9 @@ public class StudentController {
 	    public CsrfToken getCsrfToken(CsrfToken token) {
 	        return token;
 	    }
+	 
+	 public void m1() {
+		 
+	 }
 
 }
